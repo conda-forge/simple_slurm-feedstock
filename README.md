@@ -1,11 +1,11 @@
-About simple_slurm
-==================
+About simple_slurm-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/simple_slurm-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/amq92/simple_slurm
 
 Package license: AGPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/simple_slurm-feedstock/blob/main/LICENSE.txt)
 
 Summary: A simple Python wrapper for Slurm with flexibility in mind.
 
