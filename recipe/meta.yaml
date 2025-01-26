@@ -1,13 +1,13 @@
 {% set name = "simple_slurm" %}
-{% set version = "0.2.7" %}
+{% set version = "0.3.0" %}
 
 package:
   name: {{ name|lower }}
   version: {{ version }}
 
 source:
-  url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: c439e5c756ca9e5f600c4f54cdbf31d44c91330db60b1854a0f244acc6f2d300
+  url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
+  sha256: ffc2d36f9e91791788c98e873a68072c7d0c8d727744fcbb8ff09dd2dbf3d9df
 
 build:
   noarch: python
