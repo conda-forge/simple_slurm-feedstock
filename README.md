@@ -27,7 +27,7 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-simple_slurm-green.svg)](https://anaconda.org/conda-forge/simple_slurm) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/simple_slurm.svg)](https://anaconda.org/conda-forge/simple_slurm) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/simple_slurm.svg)](https://anaconda.org/conda-forge/simple_slurm) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/simple_slurm.svg)](https://anaconda.org/conda-forge/simple_slurm) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-simple__slurm-green.svg)](https://anaconda.org/conda-forge/simple_slurm) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/simple_slurm.svg)](https://anaconda.org/conda-forge/simple_slurm) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/simple_slurm.svg)](https://anaconda.org/conda-forge/simple_slurm) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/simple_slurm.svg)](https://anaconda.org/conda-forge/simple_slurm) |
 
 Installing simple_slurm
 =======================
